@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipodeTriangulo", "TipodeTriangulo\TipodeTriangulo.csproj", "{D89F6599-FD04-4B0C-AE69-0A34376C33DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89F6599-FD04-4B0C-AE69-0A34376C33DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89F6599-FD04-4B0C-AE69-0A34376C33DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89F6599-FD04-4B0C-AE69-0A34376C33DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89F6599-FD04-4B0C-AE69-0A34376C33DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB211EF-290A-4139-8F0D-2E427F173E57}
+	EndGlobalSection
+EndGlobal
