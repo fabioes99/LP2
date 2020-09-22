@@ -1,9 +1,0 @@
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\obj\Debug\cilindro.csprojAssemblyReference.cache
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\obj\Debug\cilindro.Form1.resources
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\obj\Debug\cilindro.Properties.Resources.resources
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\obj\Debug\cilindro.csproj.GenerateResource.cache
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\bin\Debug\cilindro.exe.config
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\bin\Debug\cilindro.exe
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\bin\Debug\cilindro.pdb
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\obj\Debug\cilindro.exe
-C:\Users\fabio\OneDrive\Área de Trabalho\Studio2019\cilindro\cilindro\obj\Debug\cilindro.pdb
