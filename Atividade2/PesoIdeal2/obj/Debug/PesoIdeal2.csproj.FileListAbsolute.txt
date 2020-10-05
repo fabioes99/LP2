@@ -1,0 +1,10 @@
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\bin\Debug\PesoIdeal2.exe.config
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\bin\Debug\PesoIdeal2.exe
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\bin\Debug\PesoIdeal2.pdb
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\obj\Debug\PesoIdeal2.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\obj\Debug\PesoIdeal2.Form1.resources
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\obj\Debug\PesoIdeal2.Properties.Resources.resources
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\obj\Debug\PesoIdeal2.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\obj\Debug\PesoIdeal2.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\obj\Debug\PesoIdeal2.exe
+C:\Users\fabio\source\repos\PesoIdeal2\PesoIdeal2\obj\Debug\PesoIdeal2.pdb
