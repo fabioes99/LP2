@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\bin\Debug\ATividade6.1.exe.config
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\bin\Debug\ATividade6.1.exe
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\bin\Debug\ATividade6.1.pdb
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6.1.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6._1.Form1.resources
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6._1.Properties.Resources.resources
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6.1.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6.1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6.1.exe
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6.1.pdb
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6._1.Form2.resources
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6._1.Form3.resources
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6._1.Form4.resources
+C:\Users\fabio\source\repos\ATividade6.1\ATividade6.1\obj\Debug\ATividade6._1.Form5.resources
