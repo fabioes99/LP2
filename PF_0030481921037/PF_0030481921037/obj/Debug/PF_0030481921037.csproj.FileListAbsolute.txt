@@ -1,0 +1,11 @@
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\bin\Debug\PF_0030481921037.exe.config
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\bin\Debug\PF_0030481921037.exe
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\bin\Debug\PF_0030481921037.pdb
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\obj\Debug\PF_0030481921037.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\obj\Debug\PF_0030481921037.FrmPrincipal.resources
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\obj\Debug\PF_0030481921037.Properties.Resources.resources
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\obj\Debug\PF_0030481921037.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\obj\Debug\PF_0030481921037.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\obj\Debug\PF_0030481921037.exe
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\obj\Debug\PF_0030481921037.pdb
+C:\Users\fabio\source\repos\PF_0030481921037\PF_0030481921037\obj\Debug\PF_0030481921037.frmCidade.resources
